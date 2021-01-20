@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "C:\\Users\\kithm\\IdeaProjects\\examples\\lite\\examples\\super_resolution\\android\\app\\src\\main\\cc\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\kithm\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\kithm\\IdeaProjects\\examples\\lite\\examples\\super_resolution\\android\\app\\.cxx\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "lib_tensorflowlite-Release-arm64-v8a": {
+      "artifactName": "lib_tensorflowlite",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\kithm\\IdeaProjects\\examples\\lite\\examples\\super_resolution\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite\\jni\\arm64-v8a\\libtensorflowlite_jni.so"
+    },
+    "lib_tensorflowlite_gpu-Release-arm64-v8a": {
+      "artifactName": "lib_tensorflowlite_gpu",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\kithm\\IdeaProjects\\examples\\lite\\examples\\super_resolution\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite-gpu\\jni\\arm64-v8a\\libtensorflowlite_gpu_jni.so"
+    },
+    "SuperResolution-Release-arm64-v8a": {
+      "artifactName": "SuperResolution",
+      "buildCommand": "C:\\Users\\kithm\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\kithm\\IdeaProjects\\examples\\lite\\examples\\super_resolution\\android\\app\\.cxx\\cmake\\release\\arm64-v8a --target SuperResolution",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\kithm\\IdeaProjects\\examples\\lite\\examples\\super_resolution\\android\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libSuperResolution.so"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+Executable : C:\Users\kithm\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\.cxx\cmake\debug\arm64-v8a
+--target
+SuperResolution
+jvmArgs : 
+

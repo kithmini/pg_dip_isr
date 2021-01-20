@@ -1,0 +1,16 @@
+# ninja log v5
+0	5404	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	96f46f61141eee54
+7	6810	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	179f67c25a6a20eb
+6811	7125	0	C:/Users/kithm/IdeaProjects/examples/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libSuperResolution.so	e192a829802cbee8
+1077	23615	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	179f67c25a6a20eb
+692	23618	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	96f46f61141eee54
+23618	37834	0	C:/Users/kithm/IdeaProjects/examples/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libSuperResolution.so	e192a829802cbee8
+51	2341	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	96f46f61141eee54
+8	3655	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	179f67c25a6a20eb
+3655	4019	0	C:/Users/kithm/IdeaProjects/examples/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libSuperResolution.so	e192a829802cbee8
+7	2000	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	96f46f61141eee54
+13	3343	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	179f67c25a6a20eb
+3344	3708	0	C:/Users/kithm/IdeaProjects/examples/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libSuperResolution.so	e192a829802cbee8
+11	1088	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	96f46f61141eee54
+5	1880	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	179f67c25a6a20eb
+1881	2175	0	C:/Users/kithm/IdeaProjects/examples/lite/examples/super_resolution/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libSuperResolution.so	e192a829802cbee8

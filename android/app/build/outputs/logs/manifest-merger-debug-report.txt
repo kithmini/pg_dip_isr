@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d343225184a57aa85260d51bcbf20e42\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\5bd62760f7eb3a3838035f963567b11d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\f01eed4afa994a07b7393fc479131559\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\7057a569942cf1be056fe25bf5d22312\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\3c3a03e3f2d0b5f74467af1f59dbd298\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\680e1383c115fb2cde3bdea59da2728f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\91c2e22d2c076683789c29516cb18b1e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\7b778639a5079fa433ba5153417f99f2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\fdce7b5c3958d82ad55aa067d9eb41c8\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\cc93ae3004264992c88f198765560002\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\6188370da7542db1f576f8a39342a7c3\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c696e527962e159d52221bf24e192538\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\ebeda178f16bfa4a6d92e2f99d5c94a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\510a0e1a9793eb4aeef51386c917266e\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\cc4db50162059d828c32a3ea5fd76ba9\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\79886d20b84f4460b034f34ac0f4466d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\646d72f35e634d6d09f3ef3e1b698c41\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\614462f7c52adee9cd3ed1caca9412a9\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\3c3832dbd5bb33ac7001992a1d9cecb7\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\bd02103426a10753d1ba7232b05f724b\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\e9743ed6ba63b2ea826bedec90d93736\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\a5dc0911c079e40fbbaf8a67157da80f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\ad7c607aafc0c3e33bdf3895b6d45e41\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\1cbf6e4f9706b35713b8cf8bfc9aea87\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\5370aa77d3ac4d6192168c68b2568135\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c1f7f8dab08d9d63461c601ac8335eaa\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\a8e9a6e7d084de9cb4518dd3b8e7b826\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\2baae5a6c5c20fa495e57dd3e7e22d61\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d1a4ae2593b0f3bd31fbdd25a3194ae3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d17eb059ca4b23f5d69e94aa1700a6d4\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\fdffdb2dc6d0eabd96f69235f01e06e2\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\2865842afd9c9f5351ab767903a4fe30\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c3ceb1a8140f24abc4c6c6bbd19a196a\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+	package
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:2:5-59
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:1-24:12
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d343225184a57aa85260d51bcbf20e42\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d343225184a57aa85260d51bcbf20e42\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\5bd62760f7eb3a3838035f963567b11d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\5bd62760f7eb3a3838035f963567b11d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\f01eed4afa994a07b7393fc479131559\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\f01eed4afa994a07b7393fc479131559\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\7057a569942cf1be056fe25bf5d22312\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\7057a569942cf1be056fe25bf5d22312\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\3c3a03e3f2d0b5f74467af1f59dbd298\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\3c3a03e3f2d0b5f74467af1f59dbd298\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\680e1383c115fb2cde3bdea59da2728f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\680e1383c115fb2cde3bdea59da2728f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\91c2e22d2c076683789c29516cb18b1e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\91c2e22d2c076683789c29516cb18b1e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\7b778639a5079fa433ba5153417f99f2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\7b778639a5079fa433ba5153417f99f2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\fdce7b5c3958d82ad55aa067d9eb41c8\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\fdce7b5c3958d82ad55aa067d9eb41c8\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\cc93ae3004264992c88f198765560002\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\cc93ae3004264992c88f198765560002\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\6188370da7542db1f576f8a39342a7c3\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\6188370da7542db1f576f8a39342a7c3\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c696e527962e159d52221bf24e192538\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c696e527962e159d52221bf24e192538\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\ebeda178f16bfa4a6d92e2f99d5c94a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\ebeda178f16bfa4a6d92e2f99d5c94a8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\510a0e1a9793eb4aeef51386c917266e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\510a0e1a9793eb4aeef51386c917266e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\cc4db50162059d828c32a3ea5fd76ba9\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\cc4db50162059d828c32a3ea5fd76ba9\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\79886d20b84f4460b034f34ac0f4466d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\79886d20b84f4460b034f34ac0f4466d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\646d72f35e634d6d09f3ef3e1b698c41\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\646d72f35e634d6d09f3ef3e1b698c41\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\614462f7c52adee9cd3ed1caca9412a9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\614462f7c52adee9cd3ed1caca9412a9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\3c3832dbd5bb33ac7001992a1d9cecb7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\3c3832dbd5bb33ac7001992a1d9cecb7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\bd02103426a10753d1ba7232b05f724b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\bd02103426a10753d1ba7232b05f724b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\e9743ed6ba63b2ea826bedec90d93736\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\e9743ed6ba63b2ea826bedec90d93736\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\a5dc0911c079e40fbbaf8a67157da80f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\a5dc0911c079e40fbbaf8a67157da80f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\ad7c607aafc0c3e33bdf3895b6d45e41\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\ad7c607aafc0c3e33bdf3895b6d45e41\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\1cbf6e4f9706b35713b8cf8bfc9aea87\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\1cbf6e4f9706b35713b8cf8bfc9aea87\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\5370aa77d3ac4d6192168c68b2568135\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\5370aa77d3ac4d6192168c68b2568135\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c1f7f8dab08d9d63461c601ac8335eaa\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c1f7f8dab08d9d63461c601ac8335eaa\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\a8e9a6e7d084de9cb4518dd3b8e7b826\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\a8e9a6e7d084de9cb4518dd3b8e7b826\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\2baae5a6c5c20fa495e57dd3e7e22d61\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\2baae5a6c5c20fa495e57dd3e7e22d61\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d1a4ae2593b0f3bd31fbdd25a3194ae3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d1a4ae2593b0f3bd31fbdd25a3194ae3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d17eb059ca4b23f5d69e94aa1700a6d4\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d17eb059ca4b23f5d69e94aa1700a6d4\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\fdffdb2dc6d0eabd96f69235f01e06e2\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\fdffdb2dc6d0eabd96f69235f01e06e2\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\2865842afd9c9f5351ab767903a4fe30\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\2865842afd9c9f5351ab767903a4fe30\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c3ceb1a8140f24abc4c6c6bbd19a196a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\c3ceb1a8140f24abc4c6c6bbd19a196a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:6:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d343225184a57aa85260d51bcbf20e42\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\d343225184a57aa85260d51bcbf20e42\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\bd02103426a10753d1ba7232b05f724b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\bd02103426a10753d1ba7232b05f724b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\ad7c607aafc0c3e33bdf3895b6d45e41\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\ad7c607aafc0c3e33bdf3895b6d45e41\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\kithm\.gradle\caches\transforms-2\files-2.1\bd02103426a10753d1ba7232b05f724b\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:12:9-56
+activity#org.tensorflow.lite.examples.superresolution.MainActivity
+ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\kithm\IdeaProjects\examples\lite\examples\super_resolution\android\app\src\main\AndroidManifest.xml:19:27-74
